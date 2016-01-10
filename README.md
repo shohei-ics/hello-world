@@ -1,2 +1,2 @@
 # hello-world
-Cheeky self-testing
+Cheeky test
